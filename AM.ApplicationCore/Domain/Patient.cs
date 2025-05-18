@@ -19,5 +19,6 @@ namespace AM.ApplicationCore.Domain
         public string NomComplet { get; set; }
         public string NumeroTel { get; set; }
         public ICollection<Infirmier> Infirmiers { get; set; }
+        public ICollection<Bilan> Bilans { get; set; }
     }
 }

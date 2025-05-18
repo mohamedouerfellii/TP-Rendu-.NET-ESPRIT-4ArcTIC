@@ -3,8 +3,52 @@
   "WorkspaceRootPath": "D:\\ESPRIT\\4 ARC-TIC\\.NET\\MohamedOuerfelliRendu1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{13C88DE8-9D67-4D18-9348-53FF50122074}|AM.ApplicationCore\\AM.ApplicationCore.csproj|d:\\esprit\\4 arc-tic\\.net\\mohamedouerfellirendu1\\am.applicationcore\\services\\serviceinfirmier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13C88DE8-9D67-4D18-9348-53FF50122074}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\services\\serviceinfirmier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13C88DE8-9D67-4D18-9348-53FF50122074}|AM.ApplicationCore\\AM.ApplicationCore.csproj|d:\\esprit\\4 arc-tic\\.net\\mohamedouerfellirendu1\\am.applicationcore\\interfaces\\iserviceinfirmier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13C88DE8-9D67-4D18-9348-53FF50122074}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\interfaces\\iserviceinfirmier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13C88DE8-9D67-4D18-9348-53FF50122074}|AM.ApplicationCore\\AM.ApplicationCore.csproj|d:\\esprit\\4 arc-tic\\.net\\mohamedouerfellirendu1\\am.applicationcore\\services\\servicebilan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13C88DE8-9D67-4D18-9348-53FF50122074}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\services\\servicebilan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13C88DE8-9D67-4D18-9348-53FF50122074}|AM.ApplicationCore\\AM.ApplicationCore.csproj|d:\\esprit\\4 arc-tic\\.net\\mohamedouerfellirendu1\\am.applicationcore\\interfaces\\iservicebilan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13C88DE8-9D67-4D18-9348-53FF50122074}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\interfaces\\iservicebilan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{13C88DE8-9D67-4D18-9348-53FF50122074}|AM.ApplicationCore\\AM.ApplicationCore.csproj|d:\\esprit\\4 arc-tic\\.net\\mohamedouerfellirendu1\\am.applicationcore\\domain\\bilan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{13C88DE8-9D67-4D18-9348-53FF50122074}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\domain\\bilan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13C88DE8-9D67-4D18-9348-53FF50122074}|AM.ApplicationCore\\AM.ApplicationCore.csproj|d:\\esprit\\4 arc-tic\\.net\\mohamedouerfellirendu1\\am.applicationcore\\services\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13C88DE8-9D67-4D18-9348-53FF50122074}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\services\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13C88DE8-9D67-4D18-9348-53FF50122074}|AM.ApplicationCore\\AM.ApplicationCore.csproj|d:\\esprit\\4 arc-tic\\.net\\mohamedouerfellirendu1\\am.applicationcore\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13C88DE8-9D67-4D18-9348-53FF50122074}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13C88DE8-9D67-4D18-9348-53FF50122074}|AM.ApplicationCore\\AM.ApplicationCore.csproj|d:\\esprit\\4 arc-tic\\.net\\mohamedouerfellirendu1\\am.applicationcore\\interfaces\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13C88DE8-9D67-4D18-9348-53FF50122074}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\interfaces\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57141AD-92D3-406B-8AB4-194156DDCEE9}|AM.Infrastructure\\AM.Infrastructure.csproj|d:\\esprit\\4 arc-tic\\.net\\mohamedouerfellirendu1\\am.infrastructure\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57141AD-92D3-406B-8AB4-194156DDCEE9}|AM.Infrastructure\\AM.Infrastructure.csproj|solutionrelative:am.infrastructure\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13C88DE8-9D67-4D18-9348-53FF50122074}|AM.ApplicationCore\\AM.ApplicationCore.csproj|d:\\esprit\\4 arc-tic\\.net\\mohamedouerfellirendu1\\am.applicationcore\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13C88DE8-9D67-4D18-9348-53FF50122074}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57141AD-92D3-406B-8AB4-194156DDCEE9}|AM.Infrastructure\\AM.Infrastructure.csproj|d:\\esprit\\4 arc-tic\\.net\\mohamedouerfellirendu1\\am.infrastructure\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57141AD-92D3-406B-8AB4-194156DDCEE9}|AM.Infrastructure\\AM.Infrastructure.csproj|solutionrelative:am.infrastructure\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13C88DE8-9D67-4D18-9348-53FF50122074}|AM.ApplicationCore\\AM.ApplicationCore.csproj|d:\\esprit\\4 arc-tic\\.net\\mohamedouerfellirendu1\\am.applicationcore\\am.applicationcore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{13C88DE8-9D67-4D18-9348-53FF50122074}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\am.applicationcore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F57141AD-92D3-406B-8AB4-194156DDCEE9}|AM.Infrastructure\\AM.Infrastructure.csproj|d:\\esprit\\4 arc-tic\\.net\\mohamedouerfellirendu1\\am.infrastructure\\r1context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,11 +66,144 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ServiceInfirmier.cs",
+              "DocumentMoniker": "D:\\ESPRIT\\4 ARC-TIC\\.NET\\MohamedOuerfelliRendu1\\AM.ApplicationCore\\Services\\ServiceInfirmier.cs",
+              "RelativeDocumentMoniker": "AM.ApplicationCore\\Services\\ServiceInfirmier.cs",
+              "ToolTip": "D:\\ESPRIT\\4 ARC-TIC\\.NET\\MohamedOuerfelliRendu1\\AM.ApplicationCore\\Services\\ServiceInfirmier.cs",
+              "RelativeToolTip": "AM.ApplicationCore\\Services\\ServiceInfirmier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T19:27:55.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "IServiceInfirmier.cs",
+              "DocumentMoniker": "D:\\ESPRIT\\4 ARC-TIC\\.NET\\MohamedOuerfelliRendu1\\AM.ApplicationCore\\Interfaces\\IServiceInfirmier.cs",
+              "RelativeDocumentMoniker": "AM.ApplicationCore\\Interfaces\\IServiceInfirmier.cs",
+              "ToolTip": "D:\\ESPRIT\\4 ARC-TIC\\.NET\\MohamedOuerfelliRendu1\\AM.ApplicationCore\\Interfaces\\IServiceInfirmier.cs",
+              "RelativeToolTip": "AM.ApplicationCore\\Interfaces\\IServiceInfirmier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T19:26:58.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ServiceBilan.cs",
+              "DocumentMoniker": "D:\\ESPRIT\\4 ARC-TIC\\.NET\\MohamedOuerfelliRendu1\\AM.ApplicationCore\\Services\\ServiceBilan.cs",
+              "RelativeDocumentMoniker": "AM.ApplicationCore\\Services\\ServiceBilan.cs",
+              "ToolTip": "D:\\ESPRIT\\4 ARC-TIC\\.NET\\MohamedOuerfelliRendu1\\AM.ApplicationCore\\Services\\ServiceBilan.cs",
+              "RelativeToolTip": "AM.ApplicationCore\\Services\\ServiceBilan.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwDkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T19:23:45.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Service.cs",
+              "DocumentMoniker": "D:\\ESPRIT\\4 ARC-TIC\\.NET\\MohamedOuerfelliRendu1\\AM.ApplicationCore\\Services\\Service.cs",
+              "RelativeDocumentMoniker": "AM.ApplicationCore\\Services\\Service.cs",
+              "ToolTip": "D:\\ESPRIT\\4 ARC-TIC\\.NET\\MohamedOuerfelliRendu1\\AM.ApplicationCore\\Services\\Service.cs",
+              "RelativeToolTip": "AM.ApplicationCore\\Services\\Service.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T19:23:05.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IServiceBilan.cs",
+              "DocumentMoniker": "D:\\ESPRIT\\4 ARC-TIC\\.NET\\MohamedOuerfelliRendu1\\AM.ApplicationCore\\Interfaces\\IServiceBilan.cs",
+              "RelativeDocumentMoniker": "AM.ApplicationCore\\Interfaces\\IServiceBilan.cs",
+              "ToolTip": "D:\\ESPRIT\\4 ARC-TIC\\.NET\\MohamedOuerfelliRendu1\\AM.ApplicationCore\\Interfaces\\IServiceBilan.cs",
+              "RelativeToolTip": "AM.ApplicationCore\\Interfaces\\IServiceBilan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAACEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T19:21:43.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "D:\\ESPRIT\\4 ARC-TIC\\.NET\\MohamedOuerfelliRendu1\\AM.Infrastructure\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "AM.Infrastructure\\UnitOfWork.cs",
+              "ToolTip": "D:\\ESPRIT\\4 ARC-TIC\\.NET\\MohamedOuerfelliRendu1\\AM.Infrastructure\\UnitOfWork.cs",
+              "RelativeToolTip": "AM.Infrastructure\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T19:19:45.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IService.cs",
+              "DocumentMoniker": "D:\\ESPRIT\\4 ARC-TIC\\.NET\\MohamedOuerfelliRendu1\\AM.ApplicationCore\\Interfaces\\IService.cs",
+              "RelativeDocumentMoniker": "AM.ApplicationCore\\Interfaces\\IService.cs",
+              "ToolTip": "D:\\ESPRIT\\4 ARC-TIC\\.NET\\MohamedOuerfelliRendu1\\AM.ApplicationCore\\Interfaces\\IService.cs",
+              "RelativeToolTip": "AM.ApplicationCore\\Interfaces\\IService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T19:19:03.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "D:\\ESPRIT\\4 ARC-TIC\\.NET\\MohamedOuerfelliRendu1\\AM.ApplicationCore\\Interfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "AM.ApplicationCore\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "D:\\ESPRIT\\4 ARC-TIC\\.NET\\MohamedOuerfelliRendu1\\AM.ApplicationCore\\Interfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "AM.ApplicationCore\\Interfaces\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T19:18:28.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "D:\\ESPRIT\\4 ARC-TIC\\.NET\\MohamedOuerfelliRendu1\\AM.ApplicationCore\\Interfaces\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "AM.ApplicationCore\\Interfaces\\IGenericRepository.cs",
+              "ToolTip": "D:\\ESPRIT\\4 ARC-TIC\\.NET\\MohamedOuerfelliRendu1\\AM.ApplicationCore\\Interfaces\\IGenericRepository.cs",
+              "RelativeToolTip": "AM.ApplicationCore\\Interfaces\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T19:17:19.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "D:\\ESPRIT\\4 ARC-TIC\\.NET\\MohamedOuerfelliRendu1\\AM.Infrastructure\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "AM.Infrastructure\\GenericRepository.cs",
+              "ToolTip": "D:\\ESPRIT\\4 ARC-TIC\\.NET\\MohamedOuerfelliRendu1\\AM.Infrastructure\\GenericRepository.cs",
+              "RelativeToolTip": "AM.Infrastructure\\GenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T19:16:20.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AM.ApplicationCore.csproj",
+              "DocumentMoniker": "D:\\ESPRIT\\4 ARC-TIC\\.NET\\MohamedOuerfelliRendu1\\AM.ApplicationCore\\AM.ApplicationCore.csproj",
+              "RelativeDocumentMoniker": "AM.ApplicationCore\\AM.ApplicationCore.csproj",
+              "ToolTip": "D:\\ESPRIT\\4 ARC-TIC\\.NET\\MohamedOuerfelliRendu1\\AM.ApplicationCore\\AM.ApplicationCore.csproj",
+              "RelativeToolTip": "AM.ApplicationCore\\AM.ApplicationCore.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-18T19:15:05.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "R1Context.cs",
               "DocumentMoniker": "D:\\ESPRIT\\4 ARC-TIC\\.NET\\MohamedOuerfelliRendu1\\AM.Infrastructure\\R1Context.cs",
               "RelativeDocumentMoniker": "AM.Infrastructure\\R1Context.cs",
@@ -34,12 +211,11 @@
               "RelativeToolTip": "AM.Infrastructure\\R1Context.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAYwCEAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T08:38:07.411Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-24T08:38:07.411Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 13,
               "Title": "Patient.cs",
               "DocumentMoniker": "D:\\ESPRIT\\4 ARC-TIC\\.NET\\MohamedOuerfelliRendu1\\AM.ApplicationCore\\Domain\\Patient.cs",
               "RelativeDocumentMoniker": "AM.ApplicationCore\\Domain\\Patient.cs",
@@ -47,21 +223,19 @@
               "RelativeToolTip": "AM.ApplicationCore\\Domain\\Patient.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T20:42:26.905Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-23T20:42:26.905Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Bilan.cs",
               "DocumentMoniker": "D:\\ESPRIT\\4 ARC-TIC\\.NET\\MohamedOuerfelliRendu1\\AM.ApplicationCore\\Domain\\Bilan.cs",
               "RelativeDocumentMoniker": "AM.ApplicationCore\\Domain\\Bilan.cs",
               "ToolTip": "D:\\ESPRIT\\4 ARC-TIC\\.NET\\MohamedOuerfelliRendu1\\AM.ApplicationCore\\Domain\\Bilan.cs",
               "RelativeToolTip": "AM.ApplicationCore\\Domain\\Bilan.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T20:42:06.171Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-23T20:42:06.171Z"
             }
           ]
         }
